@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Plio/static/css/main.617ea4c1.css",
+    "main.js": "/Plio/static/js/main.300d438b.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Plio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Neighbourhood.webp": "/Plio/static/media/Neighbourhood.5e66cc7e83929faef2f7.webp",
+    "static/media/news.webp": "/Plio/static/media/news.e5dec27af9d3a0d5e0bd.webp",
+    "static/media/Quotes.webp": "/Plio/static/media/Quotes.f693cf03eb60ffcc58f3.webp",
+    "static/media/Nft.webp": "/Plio/static/media/Nft.24ec36edec0331e584d9.webp",
+    "static/media/Awwards.webp": "/Plio/static/media/Awwards.f376796218296126aed3.webp",
+    "static/media/Andrew's_Resume.pdf": "/Plio/static/media/Andrew's_Resume.2b13ae4cba252af9951d.pdf",
+    "static/media/E-Portal.webp": "/Plio/static/media/E-Portal.5cac1d028178bf51f25d.webp",
+    "static/media/me.webp": "/Plio/static/media/me.62ffb5964619dff54c95.webp",
+    "index.html": "/Plio/index.html",
+    "main.617ea4c1.css.map": "/Plio/static/css/main.617ea4c1.css.map",
+    "main.300d438b.js.map": "/Plio/static/js/main.300d438b.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Plio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.617ea4c1.css",
+    "static/js/main.300d438b.js"
+  ]
+}
